@@ -12,6 +12,12 @@ i wanted a phone stand that is functional and also looks cute on my desk.
 <img width="614" height="490" alt="image" src="https://github.com/user-attachments/assets/00814aa4-bda2-4ef4-9c07-54fddee3e709" />
 <img width="718" height="615" alt="image" src="https://github.com/user-attachments/assets/2ed8a23a-bfbc-4699-993f-2f7afb622b80" />
 
+#### render
+<img width="844" height="504" alt="image" src="https://github.com/user-attachments/assets/dc897219-5ca3-4d2e-b277-3ab2943f2654" />
+<img width="817" height="543" alt="image" src="https://github.com/user-attachments/assets/8f2e77eb-66ac-4536-804c-c87882532068" />
+
+
+
 ### BoM
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |------|---------|----------|------------------|------|-------------|
