@@ -9,4 +9,4 @@ it's a phone stand cad(cat) model. the ears of the cat act as the stopper and th
 ### BoM
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |------|---------|----------|------------------|------|-------------|
-|3D Print | it's the phone stand | 1 | 4.85 | https://robu.in/product/3d-printing-service1/ | Robu |
+|3D Print | it's the phone stand | 1 |  |  | Robu |
