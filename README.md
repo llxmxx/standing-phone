@@ -1,13 +1,14 @@
 # standing phone
 
+<img width="659" height="878" alt="20260616_141225" src="https://github.com/user-attachments/assets/62c9eb70-c092-4dbd-8f7e-6561cac7b15b" />
+
 #### what is it? 
 it's a phone stand cad(cat) model. the ears of the cat act as the stopper for the phone and the tail provides back support. it also has a :3 face.
 #### why?
 i wanted a phone stand that is functional and also looks cute on my desk.
 
-#### 3d print
+#### more pictures
 <img width="659" height="878" alt="20260616_141209" src="https://github.com/user-attachments/assets/0118ef6c-b3c5-4a29-bf56-8bfd0eaa0d1e" />
-<img width="659" height="878" alt="20260616_141225" src="https://github.com/user-attachments/assets/62c9eb70-c092-4dbd-8f7e-6561cac7b15b" />
 <img width="659" height="878" alt="20260616_141218" src="https://github.com/user-attachments/assets/2e6c6b30-52f1-4796-b6fd-c5204664fa42" />
 
 #### 3d model
