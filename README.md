@@ -5,6 +5,11 @@ it's a phone stand cad(cat) model. the ears of the cat act as the stopper for th
 #### why?
 i wanted a phone stand that is functional and also looks cute on my desk.
 
+#### 3d print
+<img width="659" height="878" alt="20260616_141209" src="https://github.com/user-attachments/assets/0118ef6c-b3c5-4a29-bf56-8bfd0eaa0d1e" />
+<img width="659" height="878" alt="20260616_141225" src="https://github.com/user-attachments/assets/62c9eb70-c092-4dbd-8f7e-6561cac7b15b" />
+<img width="659" height="878" alt="20260616_141218" src="https://github.com/user-attachments/assets/2e6c6b30-52f1-4796-b6fd-c5204664fa42" />
+
 #### 3d model
 <img width="816" height="614" alt="image" src="https://github.com/user-attachments/assets/551f42ca-806d-4d1d-a79e-ec041d3ddec7" />
 
