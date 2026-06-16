@@ -3,7 +3,7 @@
 <img width="659" height="878" alt="20260616_141225" src="https://github.com/user-attachments/assets/62c9eb70-c092-4dbd-8f7e-6561cac7b15b" />
 
 #### what is it? 
-it's a phone stand cad(cat) model. the ears of the cat act as the stopper for the phone and the tail provides back support. it also has a :3 face.
+it's a phone stand cad(cat) model. the ears of the cat act as the stopper for the phone and the tail provides back support. it also has a >w< face.
 #### why?
 i wanted a phone stand that is functional and also looks cute on my desk.
 
